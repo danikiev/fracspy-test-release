@@ -1,31 +1,14 @@
 {
-   "title":"Test FraCSPy: An Open-Source Python Framework for Conventional Microseismic Processing",   
+   "title":"Test FraCSPy",
    "license":"MIT",
    "upload_type":"software",
-   "description":"Test release for FraCSPy (Framework for Conventional microSeismic Processing), an open-source Python library focused on providing conventional microseismic monitoring tools, particularly for the purpose of benchmarking newly proposed algorithms and workflows.",
-   "keywords":[
-      "earthquakes",
-      "microseismicity",
-      "microseismic monitoring",
-      "microseismic imaging",
-      "passive seismic",
-      "Earth and related environmental sciences",
-      "Geophysics",
-      "Seismology",
-      "Signal processing"
-   ],
+   "url":"https://github.com/danikiev/fracspy-test-release",
+   "description":"Test release for FraCSPy.",
    "access_right":"open",
-   "subjects":[
-      {
-         "term":"Python",
-         "identifier":"python",
-         "scheme":"programming-language"
-      }
-   ],
    "language":"eng",
-   "creators":[      
+   "creators":[
       {
-         "name":"Ankiev, Denis",         
+         "name":"Anikiev, Denis",
          "type":"projectmember"
       }
    ]
