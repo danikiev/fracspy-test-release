@@ -1,8 +1,7 @@
 {
    "title":"Test FraCSPy",
    "license":"MIT",
-   "upload_type":"software",
-   "url":"https://github.com/danikiev/fracspy-test-release",
+   "upload_type":"software",   
    "description":"Test release for FraCSPy.",
    "access_right":"open",
    "language":"eng",
